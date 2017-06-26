@@ -6,6 +6,8 @@ You can't see it because this project was ported over from git.4sense.eu, but th
 
 Technologies used include: Python, Flask, Selenium, TextBlob, Yahoo Finance API, HTML/CSS/JS
 
+Good times include: Someone uploading a 5GB file to git, so we could not pull for a couple weeks until that was found and cleaned out.
+
 In this project for CS 347 (Software Development Process), we focused on the best practices to develop software efficiently and with good quality. To do this, we extensively used test-driven development, agile, pair programming, and a whole bunch of other buzzwords. It worked out fairly nicely.
 
 ------
