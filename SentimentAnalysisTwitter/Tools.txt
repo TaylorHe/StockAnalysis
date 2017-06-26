@@ -1,0 +1,9 @@
+Unit Testing:
+-pyunit
+
+How execute:
+-Test JSON file given by Twitter team -> 
+ -Each JSON file with have tweets with different topics and different sentiment to those topics
+ -Test JSON files if doesn't exist
+ -Make different output files for each test file and match output
+ -When parsing Twitter data, check all keys needed exists

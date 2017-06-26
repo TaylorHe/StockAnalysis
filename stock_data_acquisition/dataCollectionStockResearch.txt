@@ -1,0 +1,12 @@
+yahoo_finance.py
+https://pypi.python.org/pypi/yahoo-finance
+
+This api allows us to get historical data for any stock that yahoo finance follows.
+The issue is that this only gets the data about the opening, closing, high and low price for a day.
+We would like to get stuff by hour too.
+We know it is probably possible to do because we can go to the yahoo finance page and see the price by hour through out the day,
+the one issue is that it could be against their terms of service: http://www.gummy-stuff.org/Yahoo-data.htm
+
+
+data we currently get:
+{'Volume': '3054930000', 'Symbol': '%5eGSPC', 'Adj_Close': '2373.469971', 'High': '2379.550049', 'Low': '2369.659912', 'Date': '2017-03-20', 'Close': '2373.469971', 'Open': '2378.23999'}

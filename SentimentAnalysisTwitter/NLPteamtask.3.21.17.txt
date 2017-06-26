@@ -1,0 +1,3 @@
+NLP team tasks
+
+We are going to write code to parse twitter data from a JSON file, run the TextBlob sentiment analysis tool on it, and write it to a file. The tool will determine whether the text of a tweet is positive nor negative. We will use it to classify both our target tweet and any replies to it. The file write is a temporary solution, it will eventually be replaced by pushing the data to a server.

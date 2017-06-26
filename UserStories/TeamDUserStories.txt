@@ -1,0 +1,48 @@
+Team D User Stories
+
+Sentiment Analysis
+
+As a data analyst, I want to be able to identify the sentiment of each Tweet, so that I can tell what people think about a topic
+
+Priority:HIGH
+Story Points:5
+
+
+Topic Identification
+
+As a data analyst, I want to be able to identify topic of each Tweet, so that I can relate it to other topics
+
+Priority:HIGH
+Story Points:5
+
+
+Correlate Data
+
+As a data analyst, I want to be able to correlate sentiment data with other tweets on the same topic, so that I can monitor changes over time
+
+Priority:HIGH
+Story Points:3
+
+
+Identify Companies
+
+As a stock trader, I want to be able to identify which companies are related to a tweet, so I can see how their stocks are affected
+
+Priority:MEDIUM
+Story Points:4
+
+
+Context Analysis
+
+As a data analyst, I want to be able to get context from tweets, so that I can accurately match entities to sentiment.
+
+Priority:MEDIUM
+Story Points:5
+
+
+Translation
+
+As a data analyst, I want to be able to translate tweets, so that I can get more perspectives
+
+Priority:LOW
+Story Points:2

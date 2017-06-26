@@ -1,0 +1,3575 @@
+[
+  {
+    "tweet": "It was an honor to welcome so many truckers and trucking industry leaders to the @WhiteHouse today!",
+    "id": "845037368386207746",
+    "time": 1490227200,
+    "sentiment": 0.7125,
+    "noun_phrases": [
+      "industry leaders",
+      "whitehouse"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was an honor to welcome so many truckers and trucking industry leaders to the @WhiteHouse today!",
+        0.7125,
+        [
+          "industry leaders",
+          "whitehouse"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "We are taking action to #RepealANDReplace #Obamacare! Contact your Rep & tell them you support #AHCA. #PassTheBill \nhttp://45.wh.gov/Rame8F ",
+    "id": "844943801848414209",
+    "time": 1490227200,
+    "sentiment": 0.125,
+    "noun_phrases": [
+      "repealandreplace",
+      "obamacare",
+      "contact",
+      "rep",
+      "support #",
+      "ahca",
+      "passthebill"
+    ],
+    "sentence_breakdown": [
+      [
+        "We are taking action to #RepealANDReplace #Obamacare!",
+        0.125,
+        [
+          "repealandreplace",
+          "obamacare"
+        ]
+      ],
+      [
+        "Contact your Rep & tell them you support #AHCA.",
+        0,
+        [
+          "contact",
+          "rep",
+          "support #",
+          "ahca"
+        ]
+      ],
+      [
+        "#PassTheBill \nhttp://45.wh.gov/Rame8F",
+        0,
+        [
+          "passthebill"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "A great American, Kurt Cochran, was killed in the London terror attack. My prayers and condolences are with his family and friends.",
+    "id": "844930836663357440",
+    "time": 1490227200,
+    "sentiment": 0.20000000000000004,
+    "noun_phrases": [
+      "kurt cochran",
+      "london",
+      "terror attack"
+    ],
+    "sentence_breakdown": [
+      [
+        "A great American, Kurt Cochran, was killed in the London terror attack.",
+        0.20000000000000004,
+        [
+          "kurt cochran",
+          "london",
+          "terror attack"
+        ]
+      ],
+      [
+        "My prayers and condolences are with his family and friends.",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Just watched the totally biased and fake news reports of the so-called Russia story on NBC and ABC. Such dishonesty!",
+    "id": "844886082663698436",
+    "time": 1490227200,
+    "sentiment": -0.16666666666666666,
+    "noun_phrases": [
+      "fake news reports",
+      "russia",
+      "abc",
+      "such dishonesty"
+    ],
+    "sentence_breakdown": [
+      [
+        "Just watched the totally biased and fake news reports of the so-called Russia story on NBC and ABC.",
+        -0.25,
+        [
+          "fake news reports",
+          "russia",
+          "abc"
+        ]
+      ],
+      [
+        "Such dishonesty!",
+        0,
+        [
+          "such dishonesty"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Spoke to U.K. Prime Minister Theresa May today to offer condolences on the terrorist attack in London. She is strong and doing very well.",
+    "id": "844723847094026242",
+    "time": 1490227200,
+    "sentiment": 0.31666666666666665,
+    "noun_phrases": [
+      "spoke",
+      "u.k. prime",
+      "theresa may",
+      "terrorist attack",
+      "london"
+    ],
+    "sentence_breakdown": [
+      [
+        "Spoke to U.K. Prime Minister Theresa May today to offer condolences on the terrorist attack in London.",
+        0,
+        [
+          "spoke",
+          "u.k. prime",
+          "theresa may",
+          "terrorist attack",
+          "london"
+        ]
+      ],
+      [
+        "She is strong and doing very well.",
+        0.31666666666666665,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Today, I was thrilled to announce a commitment of $25 BILLION & 20K AMERICAN JOBS over the next 4 years. THANK YOU Charter Communications!",
+    "id": "845334323045765121",
+    "time": 1490313600,
+    "sentiment": 0.19999999999999998,
+    "noun_phrases": [
+      "billion",
+      "american jobs",
+      "thank you charter communications"
+    ],
+    "sentence_breakdown": [
+      [
+        "Today, I was thrilled to announce a commitment of $25 BILLION & 20K AMERICAN JOBS over the next 4 years.",
+        0.19999999999999998,
+        [
+          "billion",
+          "american jobs"
+        ]
+      ],
+      [
+        "THANK YOU Charter Communications!",
+        0,
+        [
+          "thank you charter communications"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Today, I was pleased to announce the official approval of the presidential permit for the #KeystonePipeline. A great day for American jobs!",
+    "id": "845320243614547968",
+    "time": 1490313600,
+    "sentiment": 0.43333333333333335,
+    "noun_phrases": [
+      "official approval",
+      "keystonepipeline",
+      "great day",
+      "american jobs"
+    ],
+    "sentence_breakdown": [
+      [
+        "Today, I was pleased to announce the official approval of the presidential permit for the #KeystonePipeline.",
+        0.5,
+        [
+          "official approval",
+          "keystonepipeline"
+        ]
+      ],
+      [
+        "A great day for American jobs!",
+        0.4,
+        [
+          "great day",
+          "american jobs"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The irony is that the Freedom Caucus, which is very pro-life and against Planned Parenthood, allows P.P. to continue if they stop this plan!",
+    "id": "845249587178819584",
+    "time": 1490313600,
+    "sentiment": 0.25,
+    "noun_phrases": [
+      "caucus",
+      "planned parenthood",
+      "p.p"
+    ],
+    "sentence_breakdown": [
+      [
+        "The irony is that the Freedom Caucus, which is very pro-life and against Planned Parenthood, allows P.P.",
+        0.2,
+        [
+          "caucus",
+          "planned parenthood",
+          "p.p"
+        ]
+      ],
+      [
+        "to continue if they stop this plan!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "After seven horrible years of ObamaCare (skyrocketing premiums & deductibles, bad healthcare), this is finally your chance for a great plan!",
+    "id": "845247455868391425",
+    "time": 1490313600,
+    "sentiment": -0.17499999999999993,
+    "noun_phrases": [
+      "horrible years",
+      "obamacare",
+      "bad healthcare",
+      "great plan"
+    ],
+    "sentence_breakdown": [
+      [
+        "After seven horrible years of ObamaCare (skyrocketing premiums & deductibles, bad healthcare), this is finally your chance for a great plan!",
+        -0.17499999999999993,
+        [
+          "horrible years",
+          "obamacare",
+          "bad healthcare",
+          "great plan"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Thanks you for all of the Trump Rallies today. Amazing support. We will all MAKE AMERICA GREAT AGAIN!",
+    "id": "845766504608120833",
+    "time": 1490400000,
+    "sentiment": 0.6,
+    "noun_phrases": [
+      "thanks",
+      "trump rallies",
+      "amazing",
+      "make america great again"
+    ],
+    "sentence_breakdown": [
+      [
+        "Thanks you for all of the Trump Rallies today.",
+        0.2,
+        [
+          "thanks",
+          "trump rallies"
+        ]
+      ],
+      [
+        "Amazing support.",
+        0.6000000000000001,
+        [
+          "amazing"
+        ]
+      ],
+      [
+        "We will all MAKE AMERICA GREAT AGAIN!",
+        1,
+        [
+          "make america great again"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Watch @JudgeJeanine on @FoxNews tonight at 9:00 P.M.",
+    "id": "845646761704243200",
+    "time": 1490400000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "watch",
+      "judgejeanine",
+      "foxnews",
+      "p.m"
+    ],
+    "sentence_breakdown": [
+      [
+        "Watch @JudgeJeanine on @FoxNews tonight at 9:00 P.M.",
+        0,
+        [
+          "watch",
+          "judgejeanine",
+          "foxnews",
+          "p.m"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "ObamaCare will explode and we will all get together and piece together a great healthcare plan for THE PEOPLE. Do not worry!",
+    "id": "845645916732358656",
+    "time": 1490400000,
+    "sentiment": 1,
+    "noun_phrases": [
+      "obamacare",
+      "great healthcare plan",
+      "the people"
+    ],
+    "sentence_breakdown": [
+      [
+        "ObamaCare will explode and we will all get together and piece together a great healthcare plan for THE PEOPLE.",
+        0.8,
+        [
+          "obamacare",
+          "great healthcare plan",
+          "the people"
+        ]
+      ],
+      [
+        "Do not worry!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Happy #MedalOfHonorDay to our heroes! https://www.whitehouse.gov/the-press-office/2017/03/24/remarks-president-meeting-medal-honor-recipients …",
+    "id": "845628655493677056",
+    "time": 1490400000,
+    "sentiment": 1,
+    "noun_phrases": [
+      "medalofhonorday",
+      "//www.whitehouse.gov/the-press-office/2017/03/24/remarks-president-meeting-medal-honor-recipients …"
+    ],
+    "sentence_breakdown": [
+      [
+        "Happy #MedalOfHonorDay to our heroes!",
+        1,
+        [
+          "medalofhonorday"
+        ]
+      ],
+      [
+        "https://www.whitehouse.gov/the-press-office/2017/03/24/remarks-president-meeting-medal-honor-recipients …",
+        0,
+        [
+          "//www.whitehouse.gov/the-press-office/2017/03/24/remarks-president-meeting-medal-honor-recipients …"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Democrats are smiling in D.C. that the Freedom Caucus, with the help of Club For Growth and Heritage, have saved Planned Parenthood & Ocare!",
+    "id": "845974102619906048",
+    "time": 1490486400,
+    "sentiment": 0,
+    "noun_phrases": [
+      "d.c.",
+      "caucus",
+      "planned parenthood",
+      "ocare"
+    ],
+    "sentence_breakdown": [
+      [
+        "Democrats are smiling in D.C. that the Freedom Caucus, with the help of Club For Growth and Heritage, have saved Planned Parenthood & Ocare!",
+        0,
+        [
+          "d.c.",
+          "caucus",
+          "planned parenthood",
+          "ocare"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "General Kelly is doing a great job at the border. Numbers are way down. Many are not even trying to come in anymore.",
+    "id": "846166053663191040",
+    "time": 1490572800,
+    "sentiment": 0.29861111111111116,
+    "noun_phrases": [
+      "kelly",
+      "great job",
+      "numbers"
+    ],
+    "sentence_breakdown": [
+      [
+        "General Kelly is doing a great job at the border.",
+        0.42500000000000004,
+        [
+          "kelly",
+          "great job"
+        ]
+      ],
+      [
+        "Numbers are way down.",
+        -0.15555555555555559,
+        [
+          "numbers"
+        ]
+      ],
+      [
+        "Many are not even trying to come in anymore.",
+        0.5,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Why doesn't Fake News talk about Podesta ties to Russia as covered by @FoxNews or money from Russia to Clinton - sale of  Uranium?",
+    "id": "846854703183020032",
+    "time": 1490659200,
+    "sentiment": -0.5,
+    "noun_phrases": [
+      "fake",
+      "news talk",
+      "podesta",
+      "russia",
+      "foxnews",
+      "russia",
+      "clinton",
+      "uranium"
+    ],
+    "sentence_breakdown": [
+      [
+        "Why doesn't Fake News talk about Podesta ties to Russia as covered by @FoxNews or money from Russia to Clinton - sale of  Uranium?",
+        -0.5,
+        [
+          "fake",
+          "news talk",
+          "podesta",
+          "russia",
+          "foxnews",
+          "russia",
+          "clinton",
+          "uranium"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "A NEW ERA IN AMERICAN ENERGY! \n#MadeInTheUSA\nWatch here: https://youtu.be/OdkThe_O50M ",
+    "id": "846841493952319489",
+    "time": 1490659200,
+    "sentiment": 0.06818181818181818,
+    "noun_phrases": [
+      "new era in american energy",
+      "madeintheusa watch"
+    ],
+    "sentence_breakdown": [
+      [
+        "A NEW ERA IN AMERICAN ENERGY!",
+        0.06818181818181818,
+        [
+          "new era in american energy"
+        ]
+      ],
+      [
+        "#MadeInTheUSA\nWatch here: https://youtu.be/OdkThe_O50M",
+        0,
+        [
+          "madeintheusa watch"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It was an honor to welcome @GLFOP to the @WhiteHouse today with @VP Pence & Attorney General Sessions. THANK YOU for all you do 24/7/365!",
+    "id": "846828561491202048",
+    "time": 1490659200,
+    "sentiment": 0.43125,
+    "noun_phrases": [
+      "glfop",
+      "whitehouse",
+      "vp pence",
+      "sessions",
+      "thank you"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was an honor to welcome @GLFOP to the @WhiteHouse today with @VP Pence & Attorney General Sessions.",
+        0.42500000000000004,
+        [
+          "glfop",
+          "whitehouse",
+          "vp pence",
+          "sessions"
+        ]
+      ],
+      [
+        "THANK YOU for all you do 24/7/365!",
+        0,
+        [
+          "thank you"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The failing @NYTimes would do much better if they were honest!",
+    "id": "846745288735887360",
+    "time": 1490659200,
+    "sentiment": 0.625,
+    "noun_phrases": [
+      "nytimes"
+    ],
+    "sentence_breakdown": [
+      [
+        "The failing @NYTimes would do much better if they were honest!",
+        0.625,
+        [
+          "nytimes"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Watch @foxandfriends now on Podesta and Russia!",
+    "id": "846682464215076866",
+    "time": 1490659200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "watch",
+      "@ foxandfriends",
+      "podesta",
+      "russia"
+    ],
+    "sentence_breakdown": [
+      [
+        "Watch @foxandfriends now on Podesta and Russia!",
+        0,
+        [
+          "watch",
+          "@ foxandfriends",
+          "podesta",
+          "russia"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Big announcement by Ford today. Major investment to be made in three Michigan plants. Car companies coming back to U.S.  JOBS! JOBS! JOBS!",
+    "id": "846672219073863681",
+    "time": 1490659200,
+    "sentiment": 0.020833333333333332,
+    "noun_phrases": [
+      "big announcement",
+      "ford",
+      "major investment",
+      "michigan",
+      "car",
+      "u.s. jobs",
+      "jobs",
+      "jobs"
+    ],
+    "sentence_breakdown": [
+      [
+        "Big announcement by Ford today.",
+        0,
+        [
+          "big announcement",
+          "ford"
+        ]
+      ],
+      [
+        "Major investment to be made in three Michigan plants.",
+        0.0625,
+        [
+          "major investment",
+          "michigan"
+        ]
+      ],
+      [
+        "Car companies coming back to U.S.  JOBS!",
+        0,
+        [
+          "car",
+          "u.s. jobs"
+        ]
+      ],
+      [
+        "JOBS!",
+        0,
+        [
+          "jobs"
+        ]
+      ],
+      [
+        "JOBS!",
+        0,
+        [
+          "jobs"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The Democrats will make a deal with me on healthcare as soon as ObamaCare folds - not long. Do not worry, we are in very  good shape!",
+    "id": "846543183223963649",
+    "time": 1490659200,
+    "sentiment": 0.5125,
+    "noun_phrases": [
+      "obamacare",
+      "good shape"
+    ],
+    "sentence_breakdown": [
+      [
+        "The Democrats will make a deal with me on healthcare as soon as ObamaCare folds - not long.",
+        0.025,
+        [
+          "obamacare"
+        ]
+      ],
+      [
+        "Do not worry, we are in very  good shape!",
+        1,
+        [
+          "good shape"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The Republican House Freedom Caucus was able to snatch defeat from the jaws of victory. After so many bad years they were ready for a win!",
+    "id": "846537639167713281",
+    "time": 1490659200,
+    "sentiment": 0.30000000000000004,
+    "noun_phrases": [
+      "republican",
+      "house freedom",
+      "caucus",
+      "snatch defeat",
+      "bad years"
+    ],
+    "sentence_breakdown": [
+      [
+        "The Republican House Freedom Caucus was able to snatch defeat from the jaws of victory.",
+        0.5,
+        [
+          "republican",
+          "house freedom",
+          "caucus",
+          "snatch defeat"
+        ]
+      ],
+      [
+        "After so many bad years they were ready for a win!",
+        0.25000000000000006,
+        [
+          "bad years"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "...money to Bill, the Hillary Russian \"reset,\" praise of Russia by Hillary, or Podesta Russian Company. Trump Russia story is a hoax. #MAGA!",
+    "id": "846536212362018816",
+    "time": 1490659200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "... money",
+      "bill",
+      "hillary",
+      "russia",
+      "hillary",
+      "podesta",
+      "russian company",
+      "trump russia",
+      "maga"
+    ],
+    "sentence_breakdown": [
+      [
+        "...money to Bill, the Hillary Russian \"reset,\" praise of Russia by Hillary, or Podesta Russian Company.",
+        0,
+        [
+          "... money",
+          "bill",
+          "hillary",
+          "russia",
+          "hillary",
+          "podesta",
+          "russian company"
+        ]
+      ],
+      [
+        "Trump Russia story is a hoax.",
+        0,
+        [
+          "trump russia"
+        ]
+      ],
+      [
+        "#MAGA!",
+        0,
+        [
+          "maga"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Why isn't the House Intelligence Committee looking into the Bill & Hillary deal that allowed big Uranium to go to Russia, Russian speech....",
+    "id": "846533818811080704",
+    "time": 1490659200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "intelligence",
+      "bill",
+      "hillary",
+      "uranium",
+      "russia",
+      "russian speech ..."
+    ],
+    "sentence_breakdown": [
+      [
+        "Why isn't the House Intelligence Committee looking into the Bill & Hillary deal that allowed big Uranium to go to Russia, Russian speech....",
+        0,
+        [
+          "intelligence",
+          "bill",
+          "hillary",
+          "uranium",
+          "russia",
+          "russian speech ..."
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": ".@FLOTUS Melania and I were honored to stop by the Women's Empowerment  Panel this afternoon at the @WhiteHouse. http://45.wh.gov/5v2Pc1 ",
+    "id": "847236476815511552",
+    "time": 1490745600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "flotus melania",
+      "empowerment panel",
+      "whitehouse"
+    ],
+    "sentence_breakdown": [
+      [
+        ".",
+        0,
+        []
+      ],
+      [
+        "@FLOTUS Melania and I were honored to stop by the Women's Empowerment  Panel this afternoon at the @WhiteHouse.",
+        0,
+        [
+          "flotus melania",
+          "empowerment panel",
+          "whitehouse"
+        ]
+      ],
+      [
+        "http://45.wh.gov/5v2Pc1",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Today's EO established a commission on combating drug addiction and the opioid crisis. Watch listening sessionhttps://youtu.be/e27pzcJdD8E ",
+    "id": "847201455165624320",
+    "time": 1490745600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "eo",
+      "drug addiction",
+      "opioid crisis",
+      "watch"
+    ],
+    "sentence_breakdown": [
+      [
+        "Today's EO established a commission on combating drug addiction and the opioid crisis.",
+        0,
+        [
+          "eo",
+          "drug addiction",
+          "opioid crisis"
+        ]
+      ],
+      [
+        "Watch listening sessionhttps://youtu.be/e27pzcJdD8E",
+        0,
+        [
+          "watch"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "If the people of our great country could only see how viciously and inaccurately my administration is covered by certain media!",
+    "id": "847061031293779969",
+    "time": 1490745600,
+    "sentiment": 0.016964285714285723,
+    "noun_phrases": [
+      "great country",
+      "certain media"
+    ],
+    "sentence_breakdown": [
+      [
+        "If the people of our great country could only see how viciously and inaccurately my administration is covered by certain media!",
+        0.016964285714285723,
+        [
+          "great country",
+          "certain media"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Remember when the failing @nytimes apologized to its subscribers, right after the election, because their coverage was so wrong. Now worse!",
+    "id": "847056211006631936",
+    "time": 1490745600,
+    "sentiment": -0.2380952380952381,
+    "noun_phrases": [
+      "remember",
+      "@ nytimes"
+    ],
+    "sentence_breakdown": [
+      [
+        "Remember when the failing @nytimes apologized to its subscribers, right after the election, because their coverage was so wrong.",
+        -0.10714285714285715,
+        [
+          "remember",
+          "@ nytimes"
+        ]
+      ],
+      [
+        "Now worse!",
+        -0.5,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "...and job losses. American companies must be prepared to look at other alternatives.",
+    "id": "847573358912974849",
+    "time": 1490832000,
+    "sentiment": -0.0625,
+    "noun_phrases": [
+      "job losses",
+      "american companies"
+    ],
+    "sentence_breakdown": [
+      [
+        "...and job losses.",
+        0,
+        [
+          "job losses"
+        ]
+      ],
+      [
+        "American companies must be prepared to look at other alternatives.",
+        -0.0625,
+        [
+          "american companies"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The meeting next week with China will be a very difficult one in that we can no longer have massive trade deficits...",
+    "id": "847573220417044480",
+    "time": 1490832000,
+    "sentiment": -0.21666666666666667,
+    "noun_phrases": [
+      "china",
+      "massive trade deficits ..."
+    ],
+    "sentence_breakdown": [
+      [
+        "The meeting next week with China will be a very difficult one in that we can no longer have massive trade deficits...",
+        -0.21666666666666667,
+        [
+          "china",
+          "massive trade deficits ..."
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Where are @RepMarkMeadows, @Jim_Jordan and @Raul_Labrador?\n#RepealANDReplace #Obamacare",
+    "id": "847559519085379584",
+    "time": 1490832000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "repmarkmeadows",
+      "jim_jordan",
+      "raul_labrador",
+      "repealandreplace",
+      "obamacare"
+    ],
+    "sentence_breakdown": [
+      [
+        "Where are @RepMarkMeadows, @Jim_Jordan and @Raul_Labrador?",
+        0,
+        [
+          "repmarkmeadows",
+          "jim_jordan",
+          "raul_labrador"
+        ]
+      ],
+      [
+        "#RepealANDReplace #Obamacare",
+        0,
+        [
+          "repealandreplace",
+          "obamacare"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "If @RepMarkMeadows, @Jim_Jordan and @Raul_Labrador would get on board we would have both great healthcare and massive tax cuts & reform.",
+    "id": "847559239149158401",
+    "time": 1490832000,
+    "sentiment": 0.4,
+    "noun_phrases": [
+      "repmarkmeadows",
+      "jim_jordan",
+      "raul_labrador",
+      "great healthcare",
+      "massive tax cuts"
+    ],
+    "sentence_breakdown": [
+      [
+        "If @RepMarkMeadows, @Jim_Jordan and @Raul_Labrador would get on board we would have both great healthcare and massive tax cuts & reform.",
+        0.4,
+        [
+          "repmarkmeadows",
+          "jim_jordan",
+          "raul_labrador",
+          "great healthcare",
+          "massive tax cuts"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Great op-ed from @RepKenBuck. Looks like some in the Freedom Caucus are helping me end #Obamacare.",
+    "id": "847558426557337600",
+    "time": 1490832000,
+    "sentiment": 0.8,
+    "noun_phrases": [
+      "repkenbuck",
+      "looks",
+      "caucus",
+      "obamacare"
+    ],
+    "sentence_breakdown": [
+      [
+        "Great op-ed from @RepKenBuck.",
+        0.8,
+        [
+          "repkenbuck"
+        ]
+      ],
+      [
+        "Looks like some in the Freedom Caucus are helping me end #Obamacare.",
+        0,
+        [
+          "looks",
+          "caucus",
+          "obamacare"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The failing @nytimes has disgraced the media world. Gotten me wrong for two solid years. Change libel laws?",
+    "id": "847455180912181249",
+    "time": 1490832000,
+    "sentiment": -0.25,
+    "noun_phrases": [
+      "@ nytimes",
+      "media world",
+      "gotten",
+      "solid years",
+      "libel laws"
+    ],
+    "sentence_breakdown": [
+      [
+        "The failing @nytimes has disgraced the media world.",
+        0,
+        [
+          "@ nytimes",
+          "media world"
+        ]
+      ],
+      [
+        "Gotten me wrong for two solid years.",
+        -0.25,
+        [
+          "gotten",
+          "solid years"
+        ]
+      ],
+      [
+        "Change libel laws?",
+        0,
+        [
+          "libel laws"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The Freedom Caucus will hurt the entire Republican agenda if they don't get on the team, & fast. We must fight them, & Dems, in 2018!",
+    "id": "847435163143454723",
+    "time": 1490832000,
+    "sentiment": 0.125,
+    "noun_phrases": [
+      "caucus",
+      "republican",
+      "dems"
+    ],
+    "sentence_breakdown": [
+      [
+        "The Freedom Caucus will hurt the entire Republican agenda if they don't get on the team, & fast.",
+        0.1,
+        [
+          "caucus",
+          "republican"
+        ]
+      ],
+      [
+        "We must fight them, & Dems, in 2018!",
+        0,
+        [
+          "dems"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Today we honored our true American heroes on the first-ever National Vietnam War Veterans Day.\n#ThankAVeteran https://www.whitehouse.gov/the-press-office/2017/03/28/president-donald-j-trump-signs-s-305-law …",
+    "id": "847270189171228672",
+    "time": 1490832000,
+    "sentiment": 0.175,
+    "noun_phrases": [
+      "true american heroes",
+      "vietnam",
+      "veterans",
+      "thankaveteran",
+      "//www.whitehouse.gov/the-press-office/2017/03/28/president-donald-j-trump-signs-s-305-law …"
+    ],
+    "sentence_breakdown": [
+      [
+        "Today we honored our true American heroes on the first-ever National Vietnam War Veterans Day.",
+        0.175,
+        [
+          "true american heroes",
+          "vietnam",
+          "veterans"
+        ]
+      ],
+      [
+        "#ThankAVeteran https://www.whitehouse.gov/the-press-office/2017/03/28/president-donald-j-trump-signs-s-305-law …",
+        0,
+        [
+          "thankaveteran",
+          "//www.whitehouse.gov/the-press-office/2017/03/28/president-donald-j-trump-signs-s-305-law …"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "We are going to defend our industry & create a level playing field for the American worker. It is time to put #AmericaFirst & #MAGA!",
+    "id": "847924397180583937",
+    "time": 1490918400,
+    "sentiment": 0,
+    "noun_phrases": [
+      "american worker",
+      "americafirst",
+      "maga"
+    ],
+    "sentence_breakdown": [
+      [
+        "We are going to defend our industry & create a level playing field for the American worker.",
+        0,
+        [
+          "american worker"
+        ]
+      ],
+      [
+        "It is time to put #AmericaFirst & #MAGA!",
+        0,
+        [
+          "americafirst",
+          "maga"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "'Trump Celebrates American Manufacturing Survey Showing Highest Level of Optimism in 20 Years' http://45.wh.gov/o6bLge ",
+    "id": "847895524632129536",
+    "time": 1490918400,
+    "sentiment": 0,
+    "noun_phrases": [
+      "celebrates",
+      "manufacturing survey showing highest level",
+      "optimism",
+      "years"
+    ],
+    "sentence_breakdown": [
+      [
+        "'Trump Celebrates American Manufacturing Survey Showing Highest Level of Optimism in 20 Years' http://45.wh.gov/o6bLge",
+        0,
+        [
+          "celebrates",
+          "manufacturing survey showing highest level",
+          "optimism",
+          "years"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It is an exciting time for our country!\n#WeeklyAddress #ConfirmGorsuch",
+    "id": "847878820220858369",
+    "time": 1490918400,
+    "sentiment": 0.375,
+    "noun_phrases": [
+      "exciting time",
+      "weeklyaddress",
+      "confirmgorsuch"
+    ],
+    "sentence_breakdown": [
+      [
+        "It is an exciting time for our country!",
+        0.375,
+        [
+          "exciting time"
+        ]
+      ],
+      [
+        "#WeeklyAddress #ConfirmGorsuch",
+        0,
+        [
+          "weeklyaddress",
+          "confirmgorsuch"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "#ConfirmGorsuch #SCOTUS",
+    "id": "847867380562894848",
+    "time": 1490918400,
+    "sentiment": 0,
+    "noun_phrases": [
+      "confirmgorsuch",
+      "scotus"
+    ],
+    "sentence_breakdown": [
+      [
+        "#ConfirmGorsuch #SCOTUS",
+        0,
+        [
+          "confirmgorsuch",
+          "scotus"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Great meeting with a wonderful woman today, former Secretary of State, Condoleezza Rice! #USA",
+    "id": "847863243200753666",
+    "time": 1490918400,
+    "sentiment": 0.6,
+    "noun_phrases": [
+      "great meeting",
+      "wonderful woman",
+      "condoleezza rice",
+      "usa"
+    ],
+    "sentence_breakdown": [
+      [
+        "Great meeting with a wonderful woman today, former Secretary of State, Condoleezza Rice!",
+        0.6,
+        [
+          "great meeting",
+          "wonderful woman",
+          "condoleezza rice"
+        ]
+      ],
+      [
+        "#USA",
+        0,
+        [
+          "usa"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It was an honor to welcome the Prime Minister of Denmark, Lars Løkke Rasmussen {@larsloekke} to the @WhiteHouse yesterday!",
+    "id": "847819720418111488",
+    "time": 1490918400,
+    "sentiment": 1,
+    "noun_phrases": [
+      "prime",
+      "denmark",
+      "lars løkke rasmussen",
+      "{ @ larsloekke }",
+      "whitehouse"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was an honor to welcome the Prime Minister of Denmark, Lars Løkke Rasmussen {@larsloekke} to the @WhiteHouse yesterday!",
+        1,
+        [
+          "prime",
+          "denmark",
+          "lars løkke rasmussen",
+          "{ @ larsloekke }",
+          "whitehouse"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Mike Flynn should ask for immunity in that this is a witch hunt (excuse for big election loss), by media & Dems, of historic proportion!",
+    "id": "847766558520856578",
+    "time": 1490918400,
+    "sentiment": -0.016666666666666666,
+    "noun_phrases": [
+      "mike flynn",
+      "witch hunt",
+      "big election loss",
+      "dems",
+      "historic proportion"
+    ],
+    "sentence_breakdown": [
+      [
+        "Mike Flynn should ask for immunity in that this is a witch hunt (excuse for big election loss), by media & Dems, of historic proportion!",
+        -0.016666666666666666,
+        [
+          "mike flynn",
+          "witch hunt",
+          "big election loss",
+          "dems",
+          "historic proportion"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Only by enlisting the full potential of women in our society will we be truly able to #MakeAmericaGreatAgain\nhttps://instagram.com/p/BSSNAoMAci3/ ",
+    "id": "847625389908217856",
+    "time": 1490918400,
+    "sentiment": 0.2125,
+    "noun_phrases": [
+      "full potential",
+      "makeamericagreatagain"
+    ],
+    "sentence_breakdown": [
+      [
+        "Only by enlisting the full potential of women in our society will we be truly able to #MakeAmericaGreatAgain\nhttps://instagram.com/p/BSSNAoMAci3/",
+        0.2125,
+        [
+          "full potential",
+          "makeamericagreatagain"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Thank you @JCLayfield -- will get even better as my Administration continues to put #AmericaFirst",
+    "id": "848299191646515202",
+    "time": 1491004800,
+    "sentiment": 0.5,
+    "noun_phrases": [
+      "thank",
+      "jclayfield",
+      "americafirst"
+    ],
+    "sentence_breakdown": [
+      [
+        "Thank you @JCLayfield -- will get even better as my Administration continues to put #AmericaFirst",
+        0.5,
+        [
+          "thank",
+          "jclayfield",
+          "americafirst"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "..not associated with Russia. Trump team spied on before he was nominated.\" If this is true, does not get much bigger. Would be sad for U.S.",
+    "id": "848219027659010051",
+    "time": 1491004800,
+    "sentiment": -0.05000000000000001,
+    "noun_phrases": [
+      "russia",
+      "trump",
+      "u.s"
+    ],
+    "sentence_breakdown": [
+      [
+        "..not associated with Russia.",
+        0,
+        [
+          "russia"
+        ]
+      ],
+      [
+        "Trump team spied on before he was nominated.\"",
+        0,
+        [
+          "trump"
+        ]
+      ],
+      [
+        "If this is true, does not get much bigger.",
+        0.175,
+        []
+      ],
+      [
+        "Would be sad for U.S.",
+        -0.5,
+        [
+          "u.s"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Wow, @FoxNews just reporting big news. Source: \"Official behind unmasking is high up. Known Intel official is responsible. Some unmasked....",
+    "id": "848216035153121285",
+    "time": 1491004800,
+    "sentiment": 0.011999999999999993,
+    "noun_phrases": [
+      "wow",
+      "foxnews",
+      "big news",
+      "source",
+      "known intel"
+    ],
+    "sentence_breakdown": [
+      [
+        "Wow, @FoxNews just reporting big news.",
+        0.05,
+        [
+          "wow",
+          "foxnews",
+          "big news"
+        ]
+      ],
+      [
+        "Source: \"Official behind unmasking is high up.",
+        -0.12000000000000001,
+        [
+          "source"
+        ]
+      ],
+      [
+        "Known Intel official is responsible.",
+        0.2,
+        [
+          "known intel"
+        ]
+      ],
+      [
+        "Some unmasked....",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "...use subsidies to buy health plans.\" In other words, Ocare is dead. Good things will happen, however, either with Republicans or Dems.",
+    "id": "848204870876356608",
+    "time": 1491004800,
+    "sentiment": 0.12499999999999999,
+    "noun_phrases": [
+      "... use subsidies",
+      "health plans",
+      "ocare",
+      "good things",
+      "dems"
+    ],
+    "sentence_breakdown": [
+      [
+        "...use subsidies to buy health plans.\"",
+        0,
+        [
+          "... use subsidies",
+          "health plans"
+        ]
+      ],
+      [
+        "In other words, Ocare is dead.",
+        -0.1625,
+        [
+          "ocare"
+        ]
+      ],
+      [
+        "Good things will happen, however, either with Republicans or Dems.",
+        0.7,
+        [
+          "good things",
+          "dems"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The failing @nytimes finally gets it - \"In places where no insurance company offers plans, there will be no way for ObamaCare customers to..",
+    "id": "848203201094483972",
+    "time": 1491004800,
+    "sentiment": 0.05,
+    "noun_phrases": [
+      "@ nytimes",
+      "insurance company",
+      "obamacare",
+      "customers to.."
+    ],
+    "sentence_breakdown": [
+      [
+        "The failing @nytimes finally gets it - \"In places where no insurance company offers plans, there will be no way for ObamaCare customers to..",
+        0.05,
+        [
+          "@ nytimes",
+          "insurance company",
+          "obamacare",
+          "customers to.."
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It is the same Fake News Media that said there is \"no path to victory for Trump\" that is now pushing the phony Russia story. A total scam!",
+    "id": "848158641056362496",
+    "time": 1491004800,
+    "sentiment": -0.16666666666666666,
+    "noun_phrases": [
+      "fake",
+      "media",
+      "trump",
+      "russia",
+      "total scam"
+    ],
+    "sentence_breakdown": [
+      [
+        "It is the same Fake News Media that said there is \"no path to victory for Trump\" that is now pushing the phony Russia story.",
+        -0.25,
+        [
+          "fake",
+          "media",
+          "trump",
+          "russia"
+        ]
+      ],
+      [
+        "A total scam!",
+        0,
+        [
+          "total scam"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "When will Sleepy Eyes Chuck Todd and @NBCNews start talking about the Obama SURVEILLANCE SCANDAL and stop with the Fake Trump/Russia story?",
+    "id": "848153860602507264",
+    "time": 1491004800,
+    "sentiment": -0.5,
+    "noun_phrases": [
+      "sleepy eyes chuck todd",
+      "nbcnews",
+      "obama surveillance scandal",
+      "fake trump/russia"
+    ],
+    "sentence_breakdown": [
+      [
+        "When will Sleepy Eyes Chuck Todd and @NBCNews start talking about the Obama SURVEILLANCE SCANDAL and stop with the Fake Trump/Russia story?",
+        -0.5,
+        [
+          "sleepy eyes chuck todd",
+          "nbcnews",
+          "obama surveillance scandal",
+          "fake trump/russia"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The real story turns out to be SURVEILLANCE and LEAKING! Find the leakers.",
+    "id": "848529014667055105",
+    "time": 1491091200,
+    "sentiment": 0.25,
+    "noun_phrases": [
+      "real story",
+      "surveillance",
+      "leaking",
+      "find"
+    ],
+    "sentence_breakdown": [
+      [
+        "The real story turns out to be SURVEILLANCE and LEAKING!",
+        0.25,
+        [
+          "real story",
+          "surveillance",
+          "leaking"
+        ]
+      ],
+      [
+        "Find the leakers.",
+        0,
+        [
+          "find"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Talks on Repealing and Replacing ObamaCare are, and have been, going on, and will continue until such time as a deal is hopefully struck.",
+    "id": "848521325480202240",
+    "time": 1491091200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "talks",
+      "repealing",
+      "replacing obamacare",
+      "such time"
+    ],
+    "sentence_breakdown": [
+      [
+        "Talks on Repealing and Replacing ObamaCare are, and have been, going on, and will continue until such time as a deal is hopefully struck.",
+        0,
+        [
+          "talks",
+          "repealing",
+          "replacing obamacare",
+          "such time"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Anybody (especially  Fake News media) who thinks that Repeal & Replace of ObamaCare is dead does not know the love and strength in R Party!",
+    "id": "848519587675201538",
+    "time": 1491091200,
+    "sentiment": -0.19166666666666665,
+    "noun_phrases": [
+      "anybody",
+      "fake",
+      "news media",
+      "repeal",
+      "replace",
+      "obamacare"
+    ],
+    "sentence_breakdown": [
+      [
+        "Anybody (especially  Fake News media) who thinks that Repeal & Replace of ObamaCare is dead does not know the love and strength in R Party!",
+        -0.19166666666666665,
+        [
+          "anybody",
+          "fake",
+          "news media",
+          "repeal",
+          "replace",
+          "obamacare"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It was an honor to welcome President Al Sisi of Egypt to the @WhiteHouse as we renew the historic partnership between the U.S. and Egypt.",
+    "id": "848983209580822529",
+    "time": 1491177600,
+    "sentiment": 0.4,
+    "noun_phrases": [
+      "al sisi",
+      "egypt",
+      "whitehouse",
+      "historic partnership",
+      "u.s.",
+      "egypt"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was an honor to welcome President Al Sisi of Egypt to the @WhiteHouse as we renew the historic partnership between the U.S. and Egypt.",
+        0.4,
+        [
+          "al sisi",
+          "egypt",
+          "whitehouse",
+          "historic partnership",
+          "u.s.",
+          "egypt"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Looking forward to hosting our heroes from the Wounded Warrior Project (@WWP) Soldier Ride to the @WhiteHouse on Thursday!",
+    "id": "848957498040217603",
+    "time": 1491177600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "looking",
+      "wounded warrior project",
+      "wwp",
+      "soldier ride",
+      "whitehouse"
+    ],
+    "sentence_breakdown": [
+      [
+        "Looking forward to hosting our heroes from the Wounded Warrior Project (@WWP) Soldier Ride to the @WhiteHouse on Thursday!",
+        0,
+        [
+          "looking",
+          "wounded warrior project",
+          "wwp",
+          "soldier ride",
+          "whitehouse"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Getting ready to meet President al-Sisi of Egypt. On behalf of the United States, I look forward to a long and wonderful relationship.",
+    "id": "848928217138384896",
+    "time": 1491177600,
+    "sentiment": 0.3833333333333333,
+    "noun_phrases": [
+      "president al-sisi",
+      "egypt",
+      "wonderful relationship"
+    ],
+    "sentence_breakdown": [
+      [
+        "Getting ready to meet President al-Sisi of Egypt.",
+        0.2,
+        [
+          "president al-sisi",
+          "egypt"
+        ]
+      ],
+      [
+        "On behalf of the United States, I look forward to a long and wonderful relationship.",
+        0.475,
+        [
+          "wonderful relationship"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": ".@FoxNews from multiple sources: \"There was electronic surveillance of Trump, and people close to Trump. This is unprecedented.\" @FBI",
+    "id": "848880519458717698",
+    "time": 1491177600,
+    "sentiment": 0.3,
+    "noun_phrases": [
+      "foxnews",
+      "multiple sources",
+      "electronic surveillance",
+      "trump",
+      "trump",
+      "@ fbi"
+    ],
+    "sentence_breakdown": [
+      [
+        ".",
+        0,
+        []
+      ],
+      [
+        "@FoxNews from multiple sources: \"There was electronic surveillance of Trump, and people close to Trump.",
+        0,
+        [
+          "foxnews",
+          "multiple sources",
+          "electronic surveillance",
+          "trump",
+          "trump"
+        ]
+      ],
+      [
+        "This is unprecedented.\"",
+        0.6,
+        []
+      ],
+      [
+        "@FBI",
+        0,
+        [
+          "@ fbi"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Did Hillary Clinton ever apologize for receiving the answers to the debate? Just asking!",
+    "id": "848857910297980928",
+    "time": 1491177600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "hillary clinton"
+    ],
+    "sentence_breakdown": [
+      [
+        "Did Hillary Clinton ever apologize for receiving the answers to the debate?",
+        0,
+        [
+          "hillary clinton"
+        ]
+      ],
+      [
+        "Just asking!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Was the brother of John Podesta paid big money to get the sanctions on Russia lifted? Did Hillary know?",
+    "id": "848856822312292354",
+    "time": 1491177600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "was",
+      "john podesta",
+      "big money",
+      "russia",
+      "hillary"
+    ],
+    "sentence_breakdown": [
+      [
+        "Was the brother of John Podesta paid big money to get the sanctions on Russia lifted?",
+        0,
+        [
+          "was",
+          "john podesta",
+          "big money",
+          "russia"
+        ]
+      ],
+      [
+        "Did Hillary know?",
+        0,
+        [
+          "hillary"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Such amazing reporting on unmasking and the crooked scheme against us by @foxandfriends. \"Spied on before nomination.\" The real story.",
+    "id": "848841326183534594",
+    "time": 1491177600,
+    "sentiment": 0.2,
+    "noun_phrases": [
+      "@ foxandfriends",
+      "spied",
+      "real story"
+    ],
+    "sentence_breakdown": [
+      [
+        "Such amazing reporting on unmasking and the crooked scheme against us by @foxandfriends.",
+        0.20000000000000004,
+        [
+          "@ foxandfriends"
+        ]
+      ],
+      [
+        "\"Spied on before nomination.\"",
+        0,
+        [
+          "spied"
+        ]
+      ],
+      [
+        "The real story.",
+        0.2,
+        [
+          "real story"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Melania and I are honored to light up the @WhiteHouse this evening, for \n#WorldAutismAwarenessDay. Join us & #LIUB. http://45.wh.gov/TE8ak1 ",
+    "id": "848701201315188736",
+    "time": 1491177600,
+    "sentiment": 0.4,
+    "noun_phrases": [
+      "melania",
+      "whitehouse",
+      "worldautismawarenessday",
+      "join",
+      "liub"
+    ],
+    "sentence_breakdown": [
+      [
+        "Melania and I are honored to light up the @WhiteHouse this evening, for \n#WorldAutismAwarenessDay.",
+        0.4,
+        [
+          "melania",
+          "whitehouse",
+          "worldautismawarenessday"
+        ]
+      ],
+      [
+        "Join us & #LIUB.",
+        0,
+        [
+          "join",
+          "liub"
+        ]
+      ],
+      [
+        "http://45.wh.gov/TE8ak1",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Great to talk jobs with #NABTU2017. Tremendous spirit & optimism - we will deliver!",
+    "id": "849366930133839872",
+    "time": 1491264000,
+    "sentiment": 0.6083333333333334,
+    "noun_phrases": [
+      "nabtu2017",
+      "tremendous"
+    ],
+    "sentence_breakdown": [
+      [
+        "Great to talk jobs with #NABTU2017.",
+        0.8,
+        [
+          "nabtu2017"
+        ]
+      ],
+      [
+        "Tremendous spirit & optimism - we will deliver!",
+        0.41666666666666663,
+        [
+          "tremendous"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Thank you Sean McGarvey & the entire Governing Board of Presidents for honoring me w/an invite to speak. #NABTU2017 http://45.WH.Gov/pqxHvm ",
+    "id": "849345573509574665",
+    "time": 1491264000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "thank",
+      "sean mcgarvey",
+      "governing",
+      "w/an invite",
+      "nabtu2017"
+    ],
+    "sentence_breakdown": [
+      [
+        "Thank you Sean McGarvey & the entire Governing Board of Presidents for honoring me w/an invite to speak.",
+        0,
+        [
+          "thank",
+          "sean mcgarvey",
+          "governing",
+          "w/an invite"
+        ]
+      ],
+      [
+        "#NABTU2017 http://45.WH.Gov/pqxHvm",
+        0,
+        [
+          "nabtu2017"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": ".@WhiteHouse #CEOTownHall\nhttp://45.WH.Gov/iQXunx ",
+    "id": "849330281412792320",
+    "time": 1491264000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "whitehouse",
+      "ceotownhall"
+    ],
+    "sentence_breakdown": [
+      [
+        ".",
+        0,
+        []
+      ],
+      [
+        "@WhiteHouse #CEOTownHall\nhttp://45.WH.Gov/iQXunx",
+        0,
+        [
+          "whitehouse",
+          "ceotownhall"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "I am deeply committed to preserving our strong relationship & to strengthening America's long-standing support for Jordan. @KingAbdullahII.",
+    "id": "849732911377117185",
+    "time": 1491350400,
+    "sentiment": 0.21666666666666665,
+    "noun_phrases": [
+      "strong relationship",
+      "america",
+      "jordan",
+      "kingabdullahii"
+    ],
+    "sentence_breakdown": [
+      [
+        "I am deeply committed to preserving our strong relationship & to strengthening America's long-standing support for Jordan.",
+        0.21666666666666665,
+        [
+          "strong relationship",
+          "america",
+          "jordan"
+        ]
+      ],
+      [
+        "@KingAbdullahII.",
+        0,
+        [
+          "kingabdullahii"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It was an honor to host our American heroes from the @WWP #SoldierRideDC at the @WhiteHouse today with @FLOTUS, @VP and @SecondLady. #USA",
+    "id": "850053194923298816",
+    "time": 1491436800,
+    "sentiment": 0,
+    "noun_phrases": [
+      "american heroes",
+      "wwp",
+      "soldierridedc",
+      "whitehouse",
+      "flotus",
+      "vp",
+      "secondlady",
+      "usa"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was an honor to host our American heroes from the @WWP #SoldierRideDC at the @WhiteHouse today with @FLOTUS, @VP and @SecondLady.",
+        0,
+        [
+          "american heroes",
+          "wwp",
+          "soldierridedc",
+          "whitehouse",
+          "flotus",
+          "vp",
+          "secondlady"
+        ]
+      ],
+      [
+        "#USA",
+        0,
+        [
+          "usa"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "JOBS, JOBS, JOBS!\nhttps://instagram.com/p/BShtQnLgquy/ ",
+    "id": "849807049118625792",
+    "time": 1491436800,
+    "sentiment": 0,
+    "noun_phrases": [
+      "jobs",
+      "jobs",
+      "jobs"
+    ],
+    "sentence_breakdown": [
+      [
+        "JOBS, JOBS, JOBS!",
+        0,
+        [
+          "jobs",
+          "jobs",
+          "jobs"
+        ]
+      ],
+      [
+        "https://instagram.com/p/BShtQnLgquy/",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Judge Gorsuch will be sworn in at the Rose Garden of the White House on Monday at 11:00 A.M. He will be a great Justice. Very proud of him!",
+    "id": "850800045012201473",
+    "time": 1491609600,
+    "sentiment": 0.6,
+    "noun_phrases": [
+      "gorsuch",
+      "rose",
+      "white house",
+      "a.m",
+      "great justice"
+    ],
+    "sentence_breakdown": [
+      [
+        "Judge Gorsuch will be sworn in at the Rose Garden of the White House on Monday at 11:00 A.M.",
+        0.3,
+        [
+          "gorsuch",
+          "rose",
+          "white house",
+          "a.m"
+        ]
+      ],
+      [
+        "He will be a great Justice.",
+        0.8,
+        [
+          "great justice"
+        ]
+      ],
+      [
+        "Very proud of him!",
+        1,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "The reason you don't generally hit runways is that they are easy and inexpensive to quickly fix (fill in and top)!",
+    "id": "850785347038576640",
+    "time": 1491609600,
+    "sentiment": 0.36041666666666666,
+    "noun_phrases": [],
+    "sentence_breakdown": [
+      [
+        "The reason you don't generally hit runways is that they are easy and inexpensive to quickly fix (fill in and top)!",
+        0.36041666666666666,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Congratulations to our great military men and women for representing the United States, and the world, so well in the Syria attack.",
+    "id": "850723509370327040",
+    "time": 1491609600,
+    "sentiment": 0.35000000000000003,
+    "noun_phrases": [
+      "congratulations",
+      "great military men",
+      "syria"
+    ],
+    "sentence_breakdown": [
+      [
+        "Congratulations to our great military men and women for representing the United States, and the world, so well in the Syria attack.",
+        0.35000000000000003,
+        [
+          "congratulations",
+          "great military men",
+          "syria"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "...goodwill and friendship was formed, but only time will tell on trade.",
+    "id": "850722694958075905",
+    "time": 1491609600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "... goodwill"
+    ],
+    "sentence_breakdown": [
+      [
+        "...goodwill and friendship was formed, but only time will tell on trade.",
+        0,
+        [
+          "... goodwill"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It was a great honor to have President Xi Jinping and Madame Peng Liyuan of China as our guests in the United States. Tremendous...",
+    "id": "850722648883638272",
+    "time": 1491609600,
+    "sentiment": 0.5666666666666667,
+    "noun_phrases": [
+      "great honor",
+      "xi jinping",
+      "madame peng liyuan",
+      "china",
+      "tremendous"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was a great honor to have President Xi Jinping and Madame Peng Liyuan of China as our guests in the United States.",
+        0.8,
+        [
+          "great honor",
+          "xi jinping",
+          "madame peng liyuan",
+          "china"
+        ]
+      ],
+      [
+        "Tremendous...",
+        0.3333333333333333,
+        [
+          "tremendous"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "...confidence that President Al Sisi will handle situation properly.",
+    "id": "851092618754891781",
+    "time": 1491696000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "... confidence",
+      "al sisi"
+    ],
+    "sentence_breakdown": [
+      [
+        "...confidence that President Al Sisi will handle situation properly.",
+        0,
+        [
+          "... confidence",
+          "al sisi"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "So sad to hear of the terrorist attack in Egypt. U.S. strongly condemns. I have great...",
+    "id": "851092500056072198",
+    "time": 1491696000,
+    "sentiment": 0.24444444444444446,
+    "noun_phrases": [
+      "terrorist attack",
+      "egypt",
+      "u.s.",
+      "great ..."
+    ],
+    "sentence_breakdown": [
+      [
+        "So sad to hear of the terrorist attack in Egypt.",
+        -0.5,
+        [
+          "terrorist attack",
+          "egypt"
+        ]
+      ],
+      [
+        "U.S. strongly condemns.",
+        0.4333333333333333,
+        [
+          "u.s."
+        ]
+      ],
+      [
+        "I have great...",
+        0.8,
+        [
+          "great ..."
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Happy Passover to everyone celebrating in the United States of America, Israel, and around the world. #ChagSameach",
+    "id": "851584729400979456",
+    "time": 1491782400,
+    "sentiment": 0.8,
+    "noun_phrases": [
+      "passover",
+      "america",
+      "israel",
+      "chagsameach"
+    ],
+    "sentence_breakdown": [
+      [
+        "Happy Passover to everyone celebrating in the United States of America, Israel, and around the world.",
+        0.8,
+        [
+          "passover",
+          "america",
+          "israel"
+        ]
+      ],
+      [
+        "#ChagSameach",
+        0,
+        [
+          "chagsameach"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Congratulations to Justice Neil Gorsuch on his elevation to the United States Supreme Court. A great day for America! #SCOTUS",
+    "id": "851555178910064640",
+    "time": 1491782400,
+    "sentiment": 1,
+    "noun_phrases": [
+      "congratulations",
+      "neil gorsuch",
+      "supreme court",
+      "great day",
+      "america",
+      "scotus"
+    ],
+    "sentence_breakdown": [
+      [
+        "Congratulations to Justice Neil Gorsuch on his elevation to the United States Supreme Court.",
+        0,
+        [
+          "congratulations",
+          "neil gorsuch",
+          "supreme court"
+        ]
+      ],
+      [
+        "A great day for America!",
+        1,
+        [
+          "great day",
+          "america"
+        ]
+      ],
+      [
+        "#SCOTUS",
+        0,
+        [
+          "scotus"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Thank you @USNavy! #USA",
+    "id": "851247294854856706",
+    "time": 1491782400,
+    "sentiment": 0,
+    "noun_phrases": [
+      "thank",
+      "usnavy",
+      "usa"
+    ],
+    "sentence_breakdown": [
+      [
+        "Thank you @USNavy!",
+        0,
+        [
+          "thank",
+          "usnavy"
+        ]
+      ],
+      [
+        "#USA",
+        0,
+        [
+          "usa"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Great Strategic & Policy CEO Forum today with my Cabinet Secretaries and top CEO's from around the United States. #AmericaFirst",
+    "id": "851894518014238720",
+    "time": 1491868800,
+    "sentiment": 0.65,
+    "noun_phrases": [
+      "policy ceo forum",
+      "secretaries",
+      "ceo",
+      "americafirst"
+    ],
+    "sentence_breakdown": [
+      [
+        "Great Strategic & Policy CEO Forum today with my Cabinet Secretaries and top CEO's from around the United States.",
+        0.65,
+        [
+          "policy ceo forum",
+          "secretaries",
+          "ceo"
+        ]
+      ],
+      [
+        "#AmericaFirst",
+        0,
+        [
+          "americafirst"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Ron Estes is running TODAY for Congress in the Great State of Kansas. A wonderful guy, I need his help on Healthcare & Tax Cuts (Reform).",
+    "id": "851781714028494849",
+    "time": 1491868800,
+    "sentiment": 0.9,
+    "noun_phrases": [
+      "ron estes",
+      "today",
+      "congress",
+      "great state",
+      "kansas",
+      "wonderful guy",
+      "healthcare",
+      "cuts",
+      "reform"
+    ],
+    "sentence_breakdown": [
+      [
+        "Ron Estes is running TODAY for Congress in the Great State of Kansas.",
+        0.8,
+        [
+          "ron estes",
+          "today",
+          "congress",
+          "great state",
+          "kansas"
+        ]
+      ],
+      [
+        "A wonderful guy, I need his help on Healthcare & Tax Cuts (Reform).",
+        1,
+        [
+          "wonderful guy",
+          "healthcare",
+          "cuts",
+          "reform"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "North Korea is looking for trouble. If China decides to help, that would be great. If not, we will solve the problem without them!  U.S.A.",
+    "id": "851767718248361986",
+    "time": 1491868800,
+    "sentiment": 0.4,
+    "noun_phrases": [
+      "korea",
+      "china",
+      "u.s.a"
+    ],
+    "sentence_breakdown": [
+      [
+        "North Korea is looking for trouble.",
+        -0.2,
+        [
+          "korea"
+        ]
+      ],
+      [
+        "If China decides to help, that would be great.",
+        0.8,
+        [
+          "china"
+        ]
+      ],
+      [
+        "If not, we will solve the problem without them!",
+        0,
+        []
+      ],
+      [
+        "U.S.A.",
+        0,
+        [
+          "u.s.a"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "I explained to the President of China that a trade deal with the U.S. will be far better for them if they solve the North Korean problem!",
+    "id": "851766546825347076",
+    "time": 1491868800,
+    "sentiment": 0.3625,
+    "noun_phrases": [
+      "china",
+      "u.s.",
+      "korean"
+    ],
+    "sentence_breakdown": [
+      [
+        "I explained to the President of China that a trade deal with the U.S. will be far better for them if they solve the North Korean problem!",
+        0.3625,
+        [
+          "china",
+          "u.s.",
+          "korean"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "One by one we are keeping our promises - on the border, on energy, on jobs, on regulations. Big changes are happening!",
+    "id": "852297935219982336",
+    "time": 1491955200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "big changes"
+    ],
+    "sentence_breakdown": [
+      [
+        "One by one we are keeping our promises - on the border, on energy, on jobs, on regulations.",
+        0,
+        []
+      ],
+      [
+        "Big changes are happening!",
+        0,
+        [
+          "big changes"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Economic confidence is soaring as we unleash the power of private sector job creation and stand up for the American Workers. #AmericaFirst",
+    "id": "852297762599313409",
+    "time": 1491955200,
+    "sentiment": 0.06666666666666667,
+    "noun_phrases": [
+      "economic confidence",
+      "private sector job creation",
+      "americafirst"
+    ],
+    "sentence_breakdown": [
+      [
+        "Economic confidence is soaring as we unleash the power of private sector job creation and stand up for the American Workers.",
+        0.06666666666666667,
+        [
+          "economic confidence",
+          "private sector job creation"
+        ]
+      ],
+      [
+        "#AmericaFirst",
+        0,
+        [
+          "americafirst"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Great meeting w/ NATO Sec. Gen. We agreed on the importance of getting countries to pay their fair share & focus on the threat of terrorism.",
+    "id": "852277347587952640",
+    "time": 1491955200,
+    "sentiment": 0.4666666666666666,
+    "noun_phrases": [
+      "great meeting w/ nato",
+      "sec",
+      "fair share"
+    ],
+    "sentence_breakdown": [
+      [
+        "Great meeting w/ NATO Sec.",
+        0.35000000000000003,
+        [
+          "great meeting w/ nato",
+          "sec"
+        ]
+      ],
+      [
+        "Gen. We agreed on the importance of getting countries to pay their fair share & focus on the threat of terrorism.",
+        0.7,
+        [
+          "fair share"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Great win in Kansas last night for Ron Estes, easily winning the Congressional race against the Dems, who spent heavily & predicted victory!",
+    "id": "852138509355933697",
+    "time": 1491955200,
+    "sentiment": 0.2916666666666667,
+    "noun_phrases": [
+      "kansas",
+      "ron estes",
+      "congressional race",
+      "dems"
+    ],
+    "sentence_breakdown": [
+      [
+        "Great win in Kansas last night for Ron Estes, easily winning the Congressional race against the Dems, who spent heavily & predicted victory!",
+        0.2916666666666667,
+        [
+          "kansas",
+          "ron estes",
+          "congressional race",
+          "dems"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Had a very good call last night with the President of China concerning the menace of North Korea.",
+    "id": "852134796436398086",
+    "time": 1491955200,
+    "sentiment": 0.45499999999999996,
+    "noun_phrases": [
+      "good call",
+      "china",
+      "korea"
+    ],
+    "sentence_breakdown": [
+      [
+        "Had a very good call last night with the President of China concerning the menace of North Korea.",
+        0.45499999999999996,
+        [
+          "good call",
+          "china",
+          "korea"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "I will be interviewed by @MariaBartiromo at 6:00 A.M. @FoxBusiness. Enjoy!",
+    "id": "851997299454742528",
+    "time": 1491955200,
+    "sentiment": 0.5,
+    "noun_phrases": [
+      "mariabartiromo",
+      "foxbusiness",
+      "enjoy"
+    ],
+    "sentence_breakdown": [
+      [
+        "I will be interviewed by @MariaBartiromo at 6:00 A.M. @FoxBusiness.",
+        0,
+        [
+          "mariabartiromo",
+          "foxbusiness"
+        ]
+      ],
+      [
+        "Enjoy!",
+        0.5,
+        [
+          "enjoy"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "It was a great honor to welcome Atlanta's heroic first responders to the White House this afternoon!",
+    "id": "852602568433950720",
+    "time": 1492041600,
+    "sentiment": 0.51,
+    "noun_phrases": [
+      "great honor",
+      "atlanta",
+      "'s heroic",
+      "white house"
+    ],
+    "sentence_breakdown": [
+      [
+        "It was a great honor to welcome Atlanta's heroic first responders to the White House this afternoon!",
+        0.51,
+        [
+          "great honor",
+          "atlanta",
+          "'s heroic",
+          "white house"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Things will work out fine between the U.S.A. and Russia. At the right time everyone will come to their senses & there will be lasting peace!",
+    "id": "852510810287075329",
+    "time": 1492041600,
+    "sentiment": 0.2341269841269841,
+    "noun_phrases": [
+      "u.s.a.",
+      "russia",
+      "right time"
+    ],
+    "sentence_breakdown": [
+      [
+        "Things will work out fine between the U.S.A. and Russia.",
+        0.4166666666666667,
+        [
+          "u.s.a.",
+          "russia"
+        ]
+      ],
+      [
+        "At the right time everyone will come to their senses & there will be lasting peace!",
+        0.14285714285714285,
+        [
+          "right time"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "I have great confidence that China will properly deal with North Korea. If they are unable to do so, the U.S., with its allies, will! U.S.A.",
+    "id": "852508752142114816",
+    "time": 1492041600,
+    "sentiment": 0.05833333333333335,
+    "noun_phrases": [
+      "great confidence",
+      "china",
+      "korea",
+      "u.s.",
+      "u.s.a"
+    ],
+    "sentence_breakdown": [
+      [
+        "I have great confidence that China will properly deal with North Korea.",
+        0.4,
+        [
+          "great confidence",
+          "china",
+          "korea"
+        ]
+      ],
+      [
+        "If they are unable to do so, the U.S., with its allies, will!",
+        -0.625,
+        [
+          "u.s."
+        ]
+      ],
+      [
+        "U.S.A.",
+        0,
+        [
+          "u.s.a"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Jobs are returning, illegal immigration is plummeting, law, order and justice are being restored. We are truly making America great again!",
+    "id": "852318522139168769",
+    "time": 1492041600,
+    "sentiment": 0.25,
+    "noun_phrases": [
+      "jobs",
+      "illegal immigration",
+      "america"
+    ],
+    "sentence_breakdown": [
+      [
+        "Jobs are returning, illegal immigration is plummeting, law, order and justice are being restored.",
+        -0.5,
+        [
+          "jobs",
+          "illegal immigration"
+        ]
+      ],
+      [
+        "We are truly making America great again!",
+        1,
+        [
+          "america"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Weekly Address- http://45.wh.gov/yaWaiv ",
+    "id": "852985162870738944",
+    "time": 1492128000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "weekly address-"
+    ],
+    "sentence_breakdown": [
+      [
+        "Weekly Address- http://45.wh.gov/yaWaiv",
+        0,
+        [
+          "weekly address-"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Our military is building and is rapidly becoming stronger than ever before. Frankly, we have no choice!",
+    "id": "853604334944354305",
+    "time": 1492300800,
+    "sentiment": 0.23125,
+    "noun_phrases": [
+      "frankly"
+    ],
+    "sentence_breakdown": [
+      [
+        "Our military is building and is rapidly becoming stronger than ever before.",
+        0.175,
+        []
+      ],
+      [
+        "Frankly, we have no choice!",
+        0,
+        [
+          "frankly"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Someone should look into who paid for the small organized rallies yesterday. The election is over!",
+    "id": "853597199619543041",
+    "time": 1492300800,
+    "sentiment": -0.3125,
+    "noun_phrases": [
+      "someone"
+    ],
+    "sentence_breakdown": [
+      [
+        "Someone should look into who paid for the small organized rallies yesterday.",
+        -0.25,
+        [
+          "someone"
+        ]
+      ],
+      [
+        "The election is over!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "I did what was an almost an impossible thing to do for a Republican-easily won the Electoral College! Now Tax Returns are brought up again?",
+    "id": "853595628655587334",
+    "time": 1492300800,
+    "sentiment": -0.8333333333333333,
+    "noun_phrases": [
+      "impossible thing",
+      "republican-easily",
+      "electoral college",
+      "returns"
+    ],
+    "sentence_breakdown": [
+      [
+        "I did what was an almost an impossible thing to do for a Republican-easily won the Electoral College!",
+        -0.8333333333333333,
+        [
+          "impossible thing",
+          "republican-easily",
+          "electoral college"
+        ]
+      ],
+      [
+        "Now Tax Returns are brought up again?",
+        0,
+        [
+          "returns"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Happy Easter to everyone!",
+    "id": "853584968047636480",
+    "time": 1492300800,
+    "sentiment": 1,
+    "noun_phrases": [
+      "easter"
+    ],
+    "sentence_breakdown": [
+      [
+        "Happy Easter to everyone!",
+        1,
+        [
+          "easter"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Why would I call China a currency manipulator when they are working with us on the North Korean problem? We will see what happens!",
+    "id": "853583417916755968",
+    "time": 1492300800,
+    "sentiment": 0,
+    "noun_phrases": [
+      "china",
+      "currency manipulator",
+      "korean"
+    ],
+    "sentence_breakdown": [
+      [
+        "Why would I call China a currency manipulator when they are working with us on the North Korean problem?",
+        0,
+        [
+          "china",
+          "currency manipulator",
+          "korean"
+        ]
+      ],
+      [
+        "We will see what happens!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "See you tomorrow Wisconsin!\n\n'Trump spurs small-business optimism in Milwaukee area'",
+    "id": "854102644394254341",
+    "time": 1492387200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "wisconsin",
+      "'trump spurs small-business optimism",
+      "milwaukee"
+    ],
+    "sentence_breakdown": [
+      [
+        "See you tomorrow Wisconsin!",
+        0,
+        [
+          "wisconsin"
+        ]
+      ],
+      [
+        "'Trump spurs small-business optimism in Milwaukee area'",
+        0,
+        [
+          "'trump spurs small-business optimism",
+          "milwaukee"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "TRUMP APPROVAL HITS 50%\nhttp://m.rasmussenreports.com/public_content/politics/political_updates/prez_track_apr17 …",
+    "id": "854101790886948866",
+    "time": 1492387200,
+    "sentiment": 0,
+    "noun_phrases": [
+      "trump approval hits",
+      "% http",
+      "//m.rasmussenreports.com/public_content/politics/political_updates/prez_track_apr17 …"
+    ],
+    "sentence_breakdown": [
+      [
+        "TRUMP APPROVAL HITS 50%\nhttp://m.rasmussenreports.com/public_content/politics/political_updates/prez_track_apr17 …",
+        0,
+        [
+          "trump approval hits",
+          "% http",
+          "//m.rasmussenreports.com/public_content/politics/political_updates/prez_track_apr17 …"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The super Liberal Democrat in the Georgia Congressioal race tomorrow wants to protect criminals, allow illegal immigration and raise taxes!",
+    "id": "853964023846588420",
+    "time": 1492387200,
+    "sentiment": -0.030555555555555558,
+    "noun_phrases": [
+      "democrat",
+      "georgia congressioal",
+      "illegal immigration"
+    ],
+    "sentence_breakdown": [
+      [
+        "The super Liberal Democrat in the Georgia Congressioal race tomorrow wants to protect criminals, allow illegal immigration and raise taxes!",
+        -0.030555555555555558,
+        [
+          "democrat",
+          "georgia congressioal",
+          "illegal immigration"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The Fake Media (not Real Media) has gotten even worse since the election. Every story is badly slanted. We have to hold them to the truth!",
+    "id": "853945633903923200",
+    "time": 1492387200,
+    "sentiment": -0.46874999999999994,
+    "noun_phrases": [
+      "fake media",
+      "real media"
+    ],
+    "sentence_breakdown": [
+      [
+        "The Fake Media (not Real Media) has gotten even worse since the election.",
+        -0.3333333333333333,
+        [
+          "fake media",
+          "real media"
+        ]
+      ],
+      [
+        "Every story is badly slanted.",
+        -0.6999999999999998,
+        []
+      ],
+      [
+        "We have to hold them to the truth!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "A great book for your reading enjoyment: \"REASONS TO VOTE FOR DEMOCRATS\" by Michael J. Knowles.",
+    "id": "853944453538750464",
+    "time": 1492387200,
+    "sentiment": 0.8,
+    "noun_phrases": [
+      "great book",
+      "reading enjoyment",
+      "reasons to vote for democrats",
+      "michael j. knowles"
+    ],
+    "sentence_breakdown": [
+      [
+        "A great book for your reading enjoyment: \"REASONS TO VOTE FOR DEMOCRATS\" by Michael J. Knowles.",
+        0.8,
+        [
+          "great book",
+          "reading enjoyment",
+          "reasons to vote for democrats",
+          "michael j. knowles"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "\"The first 90 days of my presidency has exposed the total failure of the last eight years of foreign policy!\" So true. @foxandfriends",
+    "id": "853942936337350656",
+    "time": 1492387200,
+    "sentiment": 0.021180555555555546,
+    "noun_phrases": [
+      "total failure",
+      "foreign policy",
+      "@ foxandfriends"
+    ],
+    "sentence_breakdown": [
+      [
+        "\"The first 90 days of my presidency has exposed the total failure of the last eight years of foreign policy!\"",
+        -0.04458333333333334,
+        [
+          "total failure",
+          "foreign policy"
+        ]
+      ],
+      [
+        "So true.",
+        0.35,
+        []
+      ],
+      [
+        "@foxandfriends",
+        0,
+        [
+          "@ foxandfriends"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The recent Kansas election (Congress) was a really big media event, until the Republicans won. Now they play the same game with Georgia-BAD!",
+    "id": "853771244579282944",
+    "time": 1492387200,
+    "sentiment": -0.125,
+    "noun_phrases": [
+      "kansas",
+      "congress",
+      "big media event",
+      "georgia-bad"
+    ],
+    "sentence_breakdown": [
+      [
+        "The recent Kansas election (Congress) was a really big media event, until the Republicans won.",
+        0,
+        [
+          "kansas",
+          "congress",
+          "big media event"
+        ]
+      ],
+      [
+        "Now they play the same game with Georgia-BAD!",
+        -0.25,
+        [
+          "georgia-bad"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "#BuyAmericanHireAmerican\nWatchhttp://45.wh.gov/npcpYM ",
+    "id": "854438452661809152",
+    "time": 1492473600,
+    "sentiment": 0,
+    "noun_phrases": [
+      "buyamericanhireamerican watchhttp"
+    ],
+    "sentence_breakdown": [
+      [
+        "#BuyAmericanHireAmerican\nWatchhttp://45.wh.gov/npcpYM",
+        0,
+        [
+          "buyamericanhireamerican watchhttp"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Just learned that Jon @Ossoff, who is running for Congress in Georgia, doesn't even live in the district. Republicans, get out and vote!",
+    "id": "854433960566431746",
+    "time": 1492473600,
+    "sentiment": 0.17045454545454544,
+    "noun_phrases": [
+      "jon",
+      "ossoff",
+      "congress",
+      "georgia"
+    ],
+    "sentence_breakdown": [
+      [
+        "Just learned that Jon @Ossoff, who is running for Congress in Georgia, doesn't even live in the district.",
+        0.13636363636363635,
+        [
+          "jon",
+          "ossoff",
+          "congress",
+          "georgia"
+        ]
+      ],
+      [
+        "Republicans, get out and vote!",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Republicans must get out today and VOTE in Georgia 6. Force runoff and easy win! Dem Ossoff will raise your taxes-very bad on crime & 2nd A.",
+    "id": "854284952539725828",
+    "time": 1492473600,
+    "sentiment": 0.18333333333333338,
+    "noun_phrases": [
+      "vote",
+      "georgia",
+      "force runoff",
+      "dem ossoff"
+    ],
+    "sentence_breakdown": [
+      [
+        "Republicans must get out today and VOTE in Georgia 6.",
+        0,
+        [
+          "vote",
+          "georgia"
+        ]
+      ],
+      [
+        "Force runoff and easy win!",
+        0.7166666666666667,
+        [
+          "force runoff"
+        ]
+      ],
+      [
+        "Dem Ossoff will raise your taxes-very bad on crime & 2nd A.",
+        -0.3499999999999999,
+        [
+          "dem ossoff"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Democrat Jon Ossoff would be a disaster in Congress. VERY weak on crime and illegal immigration, bad for jobs and wants higher taxes. Say NO",
+    "id": "854283110191685634",
+    "time": 1492473600,
+    "sentiment": -0.2475,
+    "noun_phrases": [
+      "democrat jon ossoff",
+      "congress",
+      "very",
+      "illegal immigration",
+      "say no"
+    ],
+    "sentence_breakdown": [
+      [
+        "Democrat Jon Ossoff would be a disaster in Congress.",
+        0,
+        [
+          "democrat jon ossoff",
+          "congress"
+        ]
+      ],
+      [
+        "VERY weak on crime and illegal immigration, bad for jobs and wants higher taxes.",
+        -0.2475,
+        [
+          "very",
+          "illegal immigration"
+        ]
+      ],
+      [
+        "Say NO",
+        0,
+        [
+          "say no"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "I will be interviewed on @foxandfriends by @ainsleyearhardt starting at 6:00 A.M. Enjoy!",
+    "id": "854270321620287490",
+    "time": 1492473600,
+    "sentiment": 0.25,
+    "noun_phrases": [
+      "@ foxandfriends",
+      "@ ainsleyearhardt",
+      "a.m",
+      "enjoy"
+    ],
+    "sentence_breakdown": [
+      [
+        "I will be interviewed on @foxandfriends by @ainsleyearhardt starting at 6:00 A.M.",
+        0,
+        [
+          "@ foxandfriends",
+          "@ ainsleyearhardt",
+          "a.m"
+        ]
+      ],
+      [
+        "Enjoy!",
+        0.5,
+        [
+          "enjoy"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "The weak illegal immigration policies of the Obama Admin. allowed bad MS 13 gangs to form in cities across U.S. We are removing them fast!",
+    "id": "854268119774367745",
+    "time": 1492473600,
+    "sentiment": -0.33124999999999993,
+    "noun_phrases": [
+      "illegal immigration policies",
+      "obama admin",
+      "ms",
+      "u.s."
+    ],
+    "sentence_breakdown": [
+      [
+        "The weak illegal immigration policies of the Obama Admin.",
+        -0.4375,
+        [
+          "illegal immigration policies",
+          "obama admin"
+        ]
+      ],
+      [
+        "allowed bad MS 13 gangs to form in cities across U.S. We are removing them fast!",
+        -0.22499999999999992,
+        [
+          "ms",
+          "u.s."
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "With eleven Republican candidates running in Georgia (on Tuesday) for Congress, a runoff will be a win. Vote \"R\" for lower taxes & safety!",
+    "id": "854157191053553666",
+    "time": 1492473600,
+    "sentiment": 1,
+    "noun_phrases": [
+      "republican",
+      "georgia",
+      "congress",
+      "vote"
+    ],
+    "sentence_breakdown": [
+      [
+        "With eleven Republican candidates running in Georgia (on Tuesday) for Congress, a runoff will be a win.",
+        0.8,
+        [
+          "republican",
+          "georgia",
+          "congress"
+        ]
+      ],
+      [
+        "Vote \"R\" for lower taxes & safety!",
+        0,
+        [
+          "vote"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Today I signed the Veterans (OUR HEROES) Choice Program Extension & Improvement Act @ the @WhiteHouse. #S544 \nWatchhttp://45.wh.gov/7x5n53 ",
+    "id": "854793411110588418",
+    "time": 1492560000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "veterans",
+      "our heroes",
+      "program",
+      "improvement",
+      "act @",
+      "whitehouse",
+      "s544 watchhttp"
+    ],
+    "sentence_breakdown": [
+      [
+        "Today I signed the Veterans (OUR HEROES) Choice Program Extension & Improvement Act @ the @WhiteHouse.",
+        0,
+        [
+          "veterans",
+          "our heroes",
+          "program",
+          "improvement",
+          "act @",
+          "whitehouse"
+        ]
+      ],
+      [
+        "#S544 \nWatchhttp://45.wh.gov/7x5n53",
+        0,
+        [
+          "s544 watchhttp"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "#BuyAmericanHireAmerican",
+    "id": "854749300114546688",
+    "time": 1492560000,
+    "sentiment": 0,
+    "noun_phrases": [
+      "buyamericanhireamerican"
+    ],
+    "sentence_breakdown": [
+      [
+        "#BuyAmericanHireAmerican",
+        0,
+        [
+          "buyamericanhireamerican"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Dems failed in Kansas and are now failing in Georgia. Great job Karen Handel! It is now Hollywood vs. Georgia on June 20th.",
+    "id": "854676780527079425",
+    "time": 1492560000,
+    "sentiment": 0.16666666666666666,
+    "noun_phrases": [
+      "dems",
+      "kansas",
+      "georgia",
+      "great job",
+      "karen handel",
+      "hollywood",
+      "georgia",
+      "june"
+    ],
+    "sentence_breakdown": [
+      [
+        "Dems failed in Kansas and are now failing in Georgia.",
+        -0.5,
+        [
+          "dems",
+          "kansas",
+          "georgia"
+        ]
+      ],
+      [
+        "Great job Karen Handel!",
+        1,
+        [
+          "great job",
+          "karen handel"
+        ]
+      ],
+      [
+        "It is now Hollywood vs. Georgia on June 20th.",
+        0,
+        [
+          "hollywood",
+          "georgia",
+          "june"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "Despite major outside money, FAKE media support and eleven Republican candidates, BIG \"R\" win with runoff in Georgia. Glad to be of help!",
+    "id": "854547423464759296",
+    "time": 1492560000,
+    "sentiment": 0.16458333333333333,
+    "noun_phrases": [
+      "fake",
+      "media support",
+      "republican",
+      "big",
+      "georgia",
+      "glad"
+    ],
+    "sentence_breakdown": [
+      [
+        "Despite major outside money, FAKE media support and eleven Republican candidates, BIG \"R\" win with runoff in Georgia.",
+        0.07250000000000001,
+        [
+          "fake",
+          "media support",
+          "republican",
+          "big",
+          "georgia"
+        ]
+      ],
+      [
+        "Glad to be of help!",
+        0.625,
+        [
+          "glad"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "A great honor to host PM Paolo Gentiloni of Italy at the White House this afternoon! #ICYMI- Joint Press Conference: http://45.wh.gov/32jE1S ",
+    "id": "855172998747348998",
+    "time": 1492646400,
+    "sentiment": 0.4,
+    "noun_phrases": [
+      "great honor",
+      "pm paolo gentiloni",
+      "italy",
+      "white house",
+      "icymi- joint",
+      "press conference"
+    ],
+    "sentence_breakdown": [
+      [
+        "A great honor to host PM Paolo Gentiloni of Italy at the White House this afternoon!",
+        0.4,
+        [
+          "great honor",
+          "pm paolo gentiloni",
+          "italy",
+          "white house"
+        ]
+      ],
+      [
+        "#ICYMI- Joint Press Conference: http://45.wh.gov/32jE1S",
+        0,
+        [
+          "icymi- joint",
+          "press conference"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "We're going to use American steel, we're going to use American labor, we are going to come first in all deals. http://45.wh.gov/7xvM2D ",
+    "id": "855142466034556928",
+    "time": 1492646400,
+    "sentiment": 0.08333333333333333,
+    "noun_phrases": [
+      "american steel",
+      "american labor"
+    ],
+    "sentence_breakdown": [
+      [
+        "We're going to use American steel, we're going to use American labor, we are going to come first in all deals.",
+        0.08333333333333333,
+        [
+          "american steel",
+          "american labor"
+        ]
+      ],
+      [
+        "http://45.wh.gov/7xvM2D",
+        0,
+        []
+      ]
+    ]
+  },
+  {
+    "tweet": "Failing @nytimes, which has been calling me wrong for two years, just got caught in a big lie concerning New England Patriots visit to W.H.",
+    "id": "855055509455593472",
+    "time": 1492646400,
+    "sentiment": -0.12121212121212122,
+    "noun_phrases": [
+      "failing",
+      "@ nytimes",
+      "big lie",
+      "england patriots",
+      "w.h"
+    ],
+    "sentence_breakdown": [
+      [
+        "Failing @nytimes, which has been calling me wrong for two years, just got caught in a big lie concerning New England Patriots visit to W.H.",
+        -0.12121212121212122,
+        [
+          "failing",
+          "@ nytimes",
+          "big lie",
+          "england patriots",
+          "w.h"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "A great honor to host the @SuperBowl Champion New England @Patriots at the White House today. Congratulations! https://www.whitehouse.gov/the-press-office/2017/04/19/remarks-president-trump-welcoming-super-bowl-li-champions-new-england …",
+    "id": "854870777287634944",
+    "time": 1492646400,
+    "sentiment": 0.31212121212121213,
+    "noun_phrases": [
+      "great honor",
+      "superbowl",
+      "england",
+      "patriots",
+      "white house",
+      "congratulations",
+      "//www.whitehouse.gov/the-press-office/2017/04/19/remarks-president-trump-welcoming-super-bowl-li-champions-new-england …"
+    ],
+    "sentence_breakdown": [
+      [
+        "A great honor to host the @SuperBowl Champion New England @Patriots at the White House today.",
+        0.31212121212121213,
+        [
+          "great honor",
+          "superbowl",
+          "england",
+          "patriots",
+          "white house"
+        ]
+      ],
+      [
+        "Congratulations!",
+        0,
+        [
+          "congratulations"
+        ]
+      ],
+      [
+        "https://www.whitehouse.gov/the-press-office/2017/04/19/remarks-president-trump-welcoming-super-bowl-li-champions-new-england …",
+        0,
+        [
+          "//www.whitehouse.gov/the-press-office/2017/04/19/remarks-president-trump-welcoming-super-bowl-li-champions-new-england …"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "WELCOME HOME, AYA!\n#GodBlessTheUSA",
+    "id": "855517053238870019",
+    "time": 1492732800,
+    "sentiment": 1,
+    "noun_phrases": [
+      "welcome home",
+      "aya",
+      "godblesstheusa"
+    ],
+    "sentence_breakdown": [
+      [
+        "WELCOME HOME, AYA!",
+        1,
+        [
+          "welcome home",
+          "aya"
+        ]
+      ],
+      [
+        "#GodBlessTheUSA",
+        0,
+        [
+          "godblesstheusa"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "China is very much the economic lifeline to North Korea so, while nothing is easy, if they want to solve the North Korean problem, they will",
+    "id": "855406847200768000",
+    "time": 1492732800,
+    "sentiment": 0.29777777777777775,
+    "noun_phrases": [
+      "china",
+      "economic lifeline",
+      "korea",
+      "korean"
+    ],
+    "sentence_breakdown": [
+      [
+        "China is very much the economic lifeline to North Korea so, while nothing is easy, if they want to solve the North Korean problem, they will",
+        0.29777777777777775,
+        [
+          "china",
+          "economic lifeline",
+          "korea",
+          "korean"
+        ]
+      ]
+    ]
+  },
+  {
+    "tweet": "No matter how much I accomplish during the ridiculous standard of the first 100 days, & it has been a lot (including S.C.), media will kill!",
+    "id": "855373184861962240",
+    "time": 1492732800,
+    "sentiment": 0.044791666666666674,
+    "noun_phrases": [
+      "ridiculous standard",
+      "s.c."
+    ],
+    "sentence_breakdown": [
+      [
+        "No matter how much I accomplish during the ridiculous standard of the first 100 days, & it has been a lot (including S.C.), media will kill!",
+        0.044791666666666674,
+        [
+          "ridiculous standard",
+          "s.c."
+        ]
+      ]
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Tweet</title>
+
+<meta name="twitter:widgets:conversation" content="none">
+<meta name="twitter:widgets:cards" content="hidden">
+<meta name="twitter:widgets:link-color" content="#cc0000">
+<meta name="twitter:widgets:theme" content="light">
+
+<style>
+body {
+    margin: 0;
+}
+iframe {
+  width: 100% !important;
+  margin: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+</style>
+
+<blockquote></blockquote>
+
+<script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script>
+	
+var ID = '844235587980746752';
+	
+window.addEventListener('load', function() {
+  twttr.events.bind('rendered', function (event) {
+    var footer = event.target.contentDocument.querySelector('.footer');
+    footer.parentNode.removeChild(footer);
+    var follow = event.target.contentDocument.querySelector('.follow-button');
+    follow.parentNode.removeChild(follow);
+  });
+  twttr.widgets.createTweet(location.hash.substr(1) || ID, document.querySelector('blockquote'));
+})
+</script>

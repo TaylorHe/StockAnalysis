@@ -1,0 +1,58 @@
+h1 {
+	font-family: sans-serif, "Verdana";
+	font-variant: small-caps;
+	font-weight: normal;
+	font-size: 40px;
+	clear: left; 
+}
+
+img.logo{
+  vertical-align: text-top;
+  float: right;
+  width: 150px;
+}
+
+main, .top{
+    padding: 10px 0px 10px 0px;
+}
+nav ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	font-family: sans-serif;
+	font-size: 20px;
+    width: 100%;
+	display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+	color: white;
+    float: left; 
+    display: block;
+}
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #007BBB;
+	color: 	#F4D03F;
+}
+
+section {
+	margin: auto;
+    width: 70%;
+/*    border: 3px solid black;*/
+    padding: 10px;
+}
+
+article {
+	font-family: monospace, "Console";
+	font-variant: normal;
+}

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="twitter:widgets:conversation" content="none">
+    <meta name="twitter:widgets:cards" content="hidden">
+    <meta name="twitter:widgets:link-color" content="#cc0000">
+    <meta name="twitter:widgets:theme" content="light">
+    <meta charset="UTF-8">
+    <script src="chartframe.js"></script>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <title>Home</title>
+    <script src="??"></script>
+  </head>
+  <body>
+    <header class="top">
+      <h1><img src="logo.png" alt="text mining duck" class="logo" /> <br/>
+	Teamopoulos Stock Projections</h1>
+      <nav>
+        <ul>
+          <li><a href="website.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+	<!--				<form action="/servername" method="get" >-->
+	<form>
+	  <input type="text" id="mySearch" name="search" placeholder="Search Stock Symbols...">
+	  <button id="searchbtn" type="button"> Search </button>
+	  <button id="predictbtn" type="button"> Predict </button>
+	</form>
+	<script>
+	  function loadDoc(url, cFunction) {
+  	  var xhttp;
+  	  xhttp=new XMLHttpRequest();
+  	  xhttp.onreadystatechange = function() {
+    	  if (this.readyState == 4 && this.status == 200) {
+	  cFunction(this);
+    	  }
+  	  };
+  	  xhttp.open("GET", url, true);
+  	  xhttp.send();
+	  }
+	  function myFunction(xhttp) {
+	  var x = document.getElementById("mySearch").innerHTML;
+  	  document.getElementById(x).innerHTML =
+	  xhttp.responseText;
+	  }
+	</script>
+	<center id="chartmaster"></center>
+	<script src="serverrequests.js"></script>
+	<script>
+	  window.files = {};
+	  var BORDER_SIZE = window.BORDER_SIZE = 40;
+	  var MAGIC_NUMBER = window.MAGIC_NUMBER = 5;
+	  var MAGIC_CONSTANT = window.MAGIC_CONSTANT = 5;
+	  var birds = window.birds = [];
+	  //makeFrame()
+	  document.getElementById("searchbtn").addEventListener("click",execServerRequest);
+	  document.getElementById("predictbtn").addEventListener("click",execServerPredictRequest);
+	</script>
+	
+	
+	
+      </section>
+      
+    </main>
+  </body>
+  
+  
+</html>

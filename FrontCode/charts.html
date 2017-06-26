@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="twitter:widgets:conversation" content="none">
+    <meta name="twitter:widgets:cards" content="hidden">
+    <meta name="twitter:widgets:link-color" content="#cc0000">
+    <meta name="twitter:widgets:theme" content="light">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+
+  <body><center>
+      <style>
+	body{
+	padding: 10px;
+	}
+	#twitter{
+	display: none;
+	}
+	#tweets{
+	height:400px;
+	}
+	iframe {
+	width: 100% !important;
+	margin: 0 !important;
+	border: none !important;
+	box-shadow: none !important;
+	}
+      </style>
+      <img id="twitter" src="twitterbird.png">
+      <h1 id="mytitle"></h1>
+      <script>
+	window.files = {};
+	var BORDER_SIZE = window.BORDER_SIZE = 40;
+	var MAGIC_NUMBER = window.MAGIC_NUMBER = 5;
+	var MAGIC_CONSTANT = window.MAGIC_CONSTANT = 5;
+	var birds = window.birds = [];
+      </script>
+
+      <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <script src="testdata.js"></script>
+      <script src="chart-data.js"></script>
+      <script src="basic-chart.js"></script>
+      <script src="load-chart.js"></script>
+
+      <blockquote></blockquote>
+      <p id="tweets"></p>
+
+  </center></body>
+</html>

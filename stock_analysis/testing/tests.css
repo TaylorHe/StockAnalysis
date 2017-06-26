@@ -1,0 +1,16 @@
+.testcase{
+  border: 0px solid;
+  border-color: lightgrey;
+  border-radius: 10px 0px 0px 10px ;
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.fail{
+  background-color: #ffcccc;
+}
+
+.pass{
+  background-color: #ccffcc;
+}

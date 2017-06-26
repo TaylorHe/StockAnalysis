@@ -1,0 +1,31 @@
+Title: Incoming Twitter Update
+Given a new tweet data packet
+When it comes in the backend
+Then backend runs NLP and sentiment analysis on text
+
+Acceptance Test: enterTweet
+Priority: 1
+Story Points: 1
+
+Title: Tokenizing and Sentimentalizing Text
+Given Tweet data packet
+And the retweets and comments
+When the full text is received
+Then parse and tokenize text
+And grab all keywords
+And evaluate sentiment of each keyword
+
+Acceptance Test: tokenizeText
+Priority: 2
+Story Points: 5
+
+Title: Post parse analysis
+Given the text has been tokenized
+And the output displays keywords and sentiment analysis
+When the output is returned
+Then we write into db
+And we grab stock index for key words through Nasdaq API
+
+Acceptance Test: evalSentiment
+Priority 3
+Story Points: 5

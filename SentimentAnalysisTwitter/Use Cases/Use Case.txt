@@ -1,0 +1,17 @@
+Use Case
+Name: Grab Twitter Sentiment
+Brief Descirption: User is looking for sentiment from tweets be specific TWitter account of a politician on a date to analyze the sentiment of his, or her Tweets, on specific nouns or keywords and how they correlated to the stock performance for that date.
+Actors: User/Stock Analysis Team
+
+Basic Flow:
+1) User sends HTTP request with data on Twitter handle and a date to pull sentiment data for
+2) Data parsed and a HTTP request sent to Twitter GAthering team to pull tweets from that Twitter handle for that specific date
+3) The Tweet text is passed through NLP and sentiment and keywords pulled from Tweet(s)
+4) Parsed and NLP data written into JSON file
+5) NLP data passed back to user as HTTP response
+
+Alternate Flow:
+1) There is no Tweets from that Twitter handle for that specific date
+2) The query has been performed for same Twitter handle for same date from existing JSON file, so just read file and return data from file instead of HTTP request to Twitter Gathering team
+3) No keywords correlate to any stocks
+
